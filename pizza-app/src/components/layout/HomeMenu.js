@@ -26,7 +26,6 @@ export default function HomeMenu() {
                 <MenuItem />
                 <MenuItem />
                 <MenuItem />
-                OLa meu nome é Lucas!
             </div>
         </section>
     )
