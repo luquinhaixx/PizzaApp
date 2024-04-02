@@ -1,4 +1,4 @@
-<h1>Aplicativo Fullstack de Pedido de Pizzas 🍕</h1>
+<h1>Aplicação Fullstack de Pedido de Pizzas 🍕</h1>
 <h2>Descrição:</h2>
 Este aplicativo fullstack permite que os usuários peçam pizzas online com facilidade e rapidez. Construído com Next.js 14, React.js, MongoDB e Tailwind CSS, ele oferece uma experiência de usuário moderna e responsiva.
 
